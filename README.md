@@ -2,6 +2,8 @@
 
 Natours training project from [advanced css course on Udemy](https://www.udemy.com/advanced-css-and-sass/)
 
+[see it running](http://css-course-exercises.marko.ml/)
+
 ### Prerequisites
 
 Nodejs preferred 12.5.0
